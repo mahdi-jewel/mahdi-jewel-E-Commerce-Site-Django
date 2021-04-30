@@ -49,7 +49,7 @@ sslcommerz-python==0.0.6
 Twisted==20.3.0
 txaio==20.4.1
 typed-ast==1.4.0
-urllib3==1.25.7
+urllib3==1.25.8
 virtualenv==20.0.13
 virtualenvwrapper-win==1.2.6
 whitenoise==5.1.0
